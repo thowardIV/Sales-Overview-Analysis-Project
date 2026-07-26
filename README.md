@@ -22,3 +22,10 @@ I created a dashboard in PowerBI to analyze sales for a superstore across four r
 
 ## Dashboard Snapshot
 <img width="632" height="359" alt="DashboardSnapshot" src="https://github.com/user-attachments/assets/5e3b5ed1-0638-4683-a51d-c191d438d15b" />
+
+## Project Insight
+- The South struggles in profit, sales, and quantity all four years, compared to the other three regions.
+- In contrast, the East is the top performing region.
+- In 2017, the Central region had zero growth in sales, and a 62% drop in profit, thus something critical happenened in the region that year.
+- Large markets such as California, Washington State, and Nevada cause the West region to dominate profit every year.
+- 
