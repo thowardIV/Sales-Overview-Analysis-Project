@@ -19,3 +19,6 @@ I created a dashboard in PowerBI to analyze sales for a superstore across four r
 - Created DAX measures to use in the dashboard.
 - Created visuals according to the KPI's wanted.
 - Added slicers and visuals to make the dashboard dynamic.
+
+## Dashboard Snapshot
+<img width="632" height="359" alt="DashboardSnapshot" src="https://github.com/user-attachments/assets/5e3b5ed1-0638-4683-a51d-c191d438d15b" />
