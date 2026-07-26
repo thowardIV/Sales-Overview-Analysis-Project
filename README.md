@@ -1,5 +1,5 @@
 # Sales-Overview-Analysis-Project
-## Projct Objective
+## Project Objective
 I created a dashboard in PowerBI to analyze sales for a superstore across four regions. This process included several stages such as data cleaning, DAX calculations, and dashboard development. The interactive dashboard allows the user to filter by year and switch between the three metrics (sales, profit, and quantity).
 
 ## Dataset Used
@@ -13,3 +13,9 @@ I created a dashboard in PowerBI to analyze sales for a superstore across four r
 - Create a bubble map to visualize sales distribution across different states.
 - Show a detailed breakdown of sales by state.
 - Make a table to display key metrics for both current and previous years. 
+
+## Process
+- Verified data for missing values, incorrect data types, and renamed columns.
+- Created DAX measures to use in the dashboard.
+- Created visuals according to the KPI's wanted.
+- Added slicers and visuals to make the dashboard dynamic.
